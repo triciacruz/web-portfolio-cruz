@@ -1,0 +1,68 @@
+/*CSS Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Zilla Slab', serif;
+}
+
+#landing-title{
+	font-size: 55px;
+}
+
+.front-bg {
+	background-image: url(https://images.pexels.com/photos/567985/pexels-photo-567985.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center ;
+	background-attachment: scroll;
+	margin-top: .5rem;
+}
+
+div .container {
+	min-height: 100vh;
+}
+
+#borders a{
+	color: black;
+}
+
+#about-body{
+	background: #EBECF0;
+}
+
+#about-me{
+	font-size: 50px;
+}
+
+
+
+#skills-body{
+	background: #EBECF0;
+}
+
+
+#skills{
+	font-size: 50px;
+}
+
+#carouselExampleControls{
+	background: background: #EBECF0;
+}
+
+#contact-body {
+	background: #EBECF0;
+}
+
+#contact-title {
+	font-size: 50px;
+}
+
+footer{
+	background: #EBECF0;
+}
